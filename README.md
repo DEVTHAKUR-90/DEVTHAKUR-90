@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/i_amdevthakur">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-  <a href="https://leetcode.com/u/anonymous_9045/">
+  <a href="https://leetcode.com/u/DEVTHAKUR-90/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
   </a>
   <a href="mailto:90dthakur@gmail.com">

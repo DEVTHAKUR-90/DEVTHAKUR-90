@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=850&height=70&duration=4000&color=7DCFFF&lines=Hey+there+👋;I'm+Dev+Thakur;Cybersecurity+Enthusiast+🔐;Data+Analytics+Explorer+📊;Building+Secure+and+Intelligent+Systems+🚀" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=850&height=70&duration=4000&color=7DCFFF&lines=Hey+there+👋;I'm+Dev+Thakur;Cybersecurity+Enthusiast+🔐;Data+Analytics+Explorer+📊;Building+Secure+and+Intelligent+Systems+🚀" alt="Typing Header" />
 </picture>
 
 <br><br>
@@ -27,6 +27,9 @@
 
 <a href="https://devthakur.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>&nbsp;
+<a href="https://github.com/DEVTHAKUR-90?tab=followers">
+  <img src="https://img.shields.io/github/followers/DEVTHAKUR-90?style=for-the-badge&color=7C3AED&labelColor=black&logo=github" alt="GitHub Followers" />
 </a>
 
 </div>
@@ -37,7 +40,10 @@
 
 ## 👤 About Me
 
-Cybersecurity and Data Analytics specialist engineering secure, intelligent systems. I leverage Python, SQL, and modern frameworks to build encrypted applications and data-driven solutions, while continuously advancing my expertise in penetration testing and network defense.
+- 🔐 Cybersecurity & Data Analytics specialist engineering secure, intelligent systems
+- 🐍 Building encrypted applications and data-driven solutions with Python, SQL, and modern frameworks
+- 🛡️ Continuously advancing my expertise in penetration testing and network defense
+- 📈 Turning raw data into insight with Pandas, NumPy, Scikit-learn, and Power BI
 
 -----
 
@@ -50,6 +56,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
   <picture><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="margin:4px;" /></picture>&nbsp;
   <picture><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin:4px;" /></picture>&nbsp;
   <picture><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" style="margin:4px;" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" style="margin:4px;" /></picture>&nbsp;
 </p>
 
 -----
@@ -69,6 +76,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 
 <p align="center">
   <picture><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin:4px;" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" style="margin:4px;" /></picture>&nbsp;
   <picture><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" style="margin:4px;" /></picture>&nbsp;
   <picture><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" style="margin:4px;" /></picture>&nbsp;
   <picture><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin:4px;" /></picture>&nbsp;
@@ -129,6 +137,19 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 <p align="center">
   <picture><img src="https://img.shields.io/badge/VirtualBox-2F5F9E?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" style="margin:4px;" /></picture>&nbsp;
   <picture><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" style="margin:4px;" /></picture>&nbsp;
+</p>
+
+-----
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVTHAKUR-90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dev's GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=DEVTHAKUR-90&theme=tokyonight&hide_border=true" alt="Dev's GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVTHAKUR-90&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 -----

@@ -138,16 +138,20 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
+  <a href="https://github.com/DEVTHAKUR-90">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=DEVTHAKUR-90&show_icons=true&hide_border=true&bg_color=00000000&title_color=7DCFFF&text_color=ffffff&icon_color=7DCFFF&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=DEVTHAKUR-90&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292f&icon_color=7C3AED&rank_icon=github" />
-    <img src="https://github-stats-extended.vercel.app/api?username=DEVTHAKUR-90&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292f&icon_color=7C3AED&rank_icon=github" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=DEVTHAKUR-90&show_icons=true&hide_border=true&bg_color=00000000&title_color=7DCFFF&text_color=ffffff&icon_color=7DCFFF&rank_icon=github&hide=stars,prs,issues,contribs" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=DEVTHAKUR-90&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292f&icon_color=7C3AED&rank_icon=github&hide=stars,prs,issues,contribs" />
+    <img src="https://github-stats-extended.vercel.app/api?username=DEVTHAKUR-90&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292f&icon_color=7C3AED&rank_icon=github&hide=stars,prs,issues,contribs" alt="GitHub Stats" />
   </picture>
+  </a>
+  <a href="https://github.com/DEVTHAKUR-90">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DEVTHAKUR-90&hide_border=true&background=00000000&ring=7DCFFF&fire=7DCFFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7DCFFF&sideLabels=cccccc&dates=999999" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DEVTHAKUR-90&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakNum=24292f&sideNums=24292f&currStreakLabel=7C3AED&sideLabels=57606a&dates=6e7781" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVTHAKUR-90&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakNum=24292f&sideNums=24292f&currStreakLabel=7C3AED&sideLabels=57606a&dates=6e7781" alt="GitHub Streak" />
   </picture>
+  </a>
 </p>
 
 -----
@@ -155,11 +159,13 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 ### 📈 Most Used Languages
 
 <p align="center">
+  <a href="https://github.com/DEVTHAKUR-90">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVTHAKUR-90&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=ffffff&icon_color=7DCFFF&langs_count=8" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVTHAKUR-90&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292f&icon_color=7C3AED&langs_count=8" />
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVTHAKUR-90&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292f&icon_color=7C3AED&langs_count=8" alt="Most Used Languages" />
   </picture>
+  </a>
 </p>
 
 -----

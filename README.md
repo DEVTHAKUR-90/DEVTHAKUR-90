@@ -46,11 +46,11 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 ### 🧑‍💻 Programming Languages
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" style="margin:4px;" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></picture>
 </p>
 
 -----
@@ -58,10 +58,10 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 ### 🌐 Web Technologies
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin:4px;" /></picture>
+  <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></picture>
 </p>
 
 -----
@@ -69,12 +69,12 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 ### 🧩 Frameworks & Libraries
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" style="margin:4px;" /></picture>
+  <picture><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></picture>
 </p>
 
 -----
@@ -82,10 +82,10 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 ### 📊 Data & ML
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" style="margin:4px;" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" /></picture>
 </p>
 
 -----
@@ -93,9 +93,9 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 ### 🗄️ Databases
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin:4px;" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></picture>
 </p>
 
 -----
@@ -103,13 +103,13 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 ### 🔐 Cybersecurity Arsenal
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Nmap-4A7043?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" style="margin:4px;" /></picture>
+  <picture><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Nmap-4A7043?style=for-the-badge&logoColor=white" alt="Nmap" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" /></picture>
 </p>
 
 -----
@@ -117,11 +117,11 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 ### 🧰 Development Tools
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal" style="margin:4px;" /></picture>
+  <picture><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white" alt="VS Code" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal" /></picture>
 </p>
 
 -----
@@ -129,8 +129,37 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 ### 🖥️ Virtualization & Lab
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/VirtualBox-2F5F9E?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" style="margin:4px;" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" style="margin:4px;" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/VirtualBox-2F5F9E?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" /></picture>&nbsp;
+  <picture><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" /></picture>
+</p>
+
+-----
+
+### 📊 GitHub Stats & Streak
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=DEVTHAKUR-90&show_icons=true&hide_border=true&bg_color=00000000&title_color=7DCFFF&text_color=ffffff&icon_color=7DCFFF&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=DEVTHAKUR-90&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292f&icon_color=7C3AED&rank_icon=github" />
+    <img src="https://github-stats-extended.vercel.app/api?username=DEVTHAKUR-90&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292f&icon_color=7C3AED&rank_icon=github" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DEVTHAKUR-90&hide_border=true&background=00000000&ring=7DCFFF&fire=7DCFFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7DCFFF&sideLabels=cccccc&dates=999999" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DEVTHAKUR-90&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakNum=24292f&sideNums=24292f&currStreakLabel=7C3AED&sideLabels=57606a&dates=6e7781" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVTHAKUR-90&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakNum=24292f&sideNums=24292f&currStreakLabel=7C3AED&sideLabels=57606a&dates=6e7781" alt="GitHub Streak" />
+  </picture>
+</p>
+
+-----
+
+### 📈 Most Used Languages
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVTHAKUR-90&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=ffffff&icon_color=7DCFFF&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVTHAKUR-90&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292f&icon_color=7C3AED&langs_count=8" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVTHAKUR-90&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292f&icon_color=7C3AED&langs_count=8" alt="Most Used Languages" />
+  </picture>
 </p>
 
 -----

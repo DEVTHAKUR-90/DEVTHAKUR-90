@@ -134,7 +134,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 </p>
 
 -----
-
+<!--
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
@@ -153,7 +153,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
   </picture>
   </a>
 </p>
-
+-->
 -----
 
 ### 📈 Most Used Languages

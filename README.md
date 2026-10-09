@@ -133,8 +133,9 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
   <picture><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" /></picture>
 </p>
 
------
 <!--
+-----
+
 ### 📊 GitHub Stats & Streak
 
 <p align="center">

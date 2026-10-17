@@ -6,137 +6,76 @@
 
 <br><br>
 
-<div align="center">
-
 <p>
-  <a href="https://www.linkedin.com/in/dev-thakur90">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://www.instagram.com/i_amdevthakur">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  <a href="https://leetcode.com/u/DEVTHAKUR-90/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
-  </a>
-  <a href="mailto:90dthakur@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
+  <a href="https://github.com/DEVTHAKUR-90"><img src="assets/icons/github.svg" width="52" height="51" alt="GitHub" /></a><a href="https://www.linkedin.com/in/dev-thakur90"><img src="assets/icons/linkedin.svg" width="52" height="51" alt="LinkedIn" /></a><a href="https://www.instagram.com/i_amdevthakur"><img src="assets/icons/instagram.svg" width="52" height="51" alt="Instagram" /></a><a href="https://leetcode.com/u/DEVTHAKUR-90/"><img src="assets/icons/leetcode.svg" width="52" height="51" alt="LeetCode" /></a><a href="mailto:90dthakur@gmail.com"><img src="assets/icons/gmail.svg" width="52" height="51" alt="Email" /></a>
 </p>
 
 <br>
 
 <a href="https://dev-onweb.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
 
-</div>
-
------
-
-## 👤 About Me
-
-Cybersecurity and Data Analytics specialist engineering secure, intelligent systems. I leverage Python, SQL, and modern frameworks to build encrypted applications and data-driven solutions, while continuously advancing my expertise in penetration testing and network defense.
-
------
-
-## 💻 Tech Stack
-
-### 🧑‍💻 Programming Languages
+<h2 align="center">👤 About Me</h2>
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></picture>
+  Cybersecurity and Data Analytics specialist engineering secure, intelligent systems. I leverage Python, SQL, and modern frameworks to build encrypted applications and data-driven solutions, while continuously advancing my expertise in penetration testing and network defense.
 </p>
 
------
+<h2 align="center">💻 Tech Stack</h2>
 
-### 🌐 Web Technologies
+<h3 align="center">🧑‍💻 Programming Languages</h3>
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></picture>
+  <img src="assets/icons/python.svg" width="76" height="74" alt="Python" /><img src="assets/icons/java.svg" width="76" height="74" alt="Java" /><img src="assets/icons/c.svg" width="76" height="74" alt="C" /><img src="assets/icons/cpp.svg" width="76" height="74" alt="C++" /><img src="assets/icons/powershell.svg" width="76" height="74" alt="PowerShell" />
 </p>
 
------
-
-### 🧩 Frameworks & Libraries
+<h3 align="center">🌐 Web Technologies</h3>
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></picture>
+  <img src="assets/icons/javascript.svg" width="76" height="74" alt="JavaScript" /><img src="assets/icons/typescript.svg" width="76" height="74" alt="TypeScript" /><img src="assets/icons/html5.svg" width="76" height="74" alt="HTML5" /><img src="assets/icons/css3.svg" width="76" height="74" alt="CSS3" />
 </p>
 
------
-
-### 📊 Data & ML
+<h3 align="center">🧩 Frameworks &amp; Libraries</h3>
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" /></picture>
+  <img src="assets/icons/react.svg" width="76" height="74" alt="React" /><img src="assets/icons/vue.svg" width="76" height="74" alt="Vue.js" /><img src="assets/icons/nextjs.svg" width="76" height="74" alt="Next.js" /><img src="assets/icons/tailwind.svg" width="76" height="74" alt="Tailwind CSS" /><img src="assets/icons/nodejs.svg" width="76" height="74" alt="Node.js" /><img src="assets/icons/fastapi.svg" width="76" height="74" alt="FastAPI" />
 </p>
 
------
-
-### 🗄️ Databases
+<h3 align="center">📊 Data &amp; ML</h3>
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></picture>
+  <img src="assets/icons/pandas.svg" width="76" height="74" alt="Pandas" /><img src="assets/icons/numpy.svg" width="76" height="74" alt="NumPy" /><img src="assets/icons/scikit-learn.svg" width="76" height="74" alt="Scikit-learn" /><img src="assets/icons/power-bi.svg" width="76" height="74" alt="Power BI" />
 </p>
 
------
-
-### 🔐 Cybersecurity Arsenal
+<h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Nmap-4A7043?style=for-the-badge&logoColor=white" alt="Nmap" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" /></picture>
+  <img src="assets/icons/mysql.svg" width="76" height="74" alt="MySQL" /><img src="assets/icons/postgresql.svg" width="76" height="74" alt="PostgreSQL" /><img src="assets/icons/mongodb.svg" width="76" height="74" alt="MongoDB" />
 </p>
 
------
-
-### 🧰 Development Tools
+<h3 align="center">🔐 Cybersecurity Arsenal</h3>
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white" alt="VS Code" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal" /></picture>
+  <img src="assets/icons/linux.svg" width="76" height="74" alt="Linux" /><img src="assets/icons/kali-linux.svg" width="76" height="74" alt="Kali Linux" /><img src="assets/icons/wireshark.svg" width="76" height="74" alt="Wireshark" /><img src="assets/icons/burp-suite.svg" width="76" height="74" alt="Burp Suite" /><img src="assets/icons/nmap.svg" width="76" height="74" alt="Nmap" /><img src="assets/icons/metasploit.svg" width="76" height="74" alt="Metasploit" /><img src="assets/icons/owasp.svg" width="76" height="74" alt="OWASP" />
 </p>
 
------
-
-### 🖥️ Virtualization & Lab
+<h3 align="center">🧰 Development Tools</h3>
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/VirtualBox-2F5F9E?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" /></picture>
+  <img src="assets/icons/git.svg" width="76" height="74" alt="Git" /><img src="assets/icons/github.svg" width="76" height="74" alt="GitHub" /><img src="assets/icons/vscode.svg" width="76" height="74" alt="VS Code" /><img src="assets/icons/postman.svg" width="76" height="74" alt="Postman" /><img src="assets/icons/terminal.svg" width="76" height="74" alt="Terminal" />
+</p>
+
+<h3 align="center">🖥️ Virtualization &amp; Lab</h3>
+
+<p align="center">
+  <img src="assets/icons/virtualbox.svg" width="76" height="74" alt="VirtualBox" /><img src="assets/icons/vmware.svg" width="76" height="74" alt="VMware" />
 </p>
 
 <!--
------
-
-### 📊 GitHub Stats & Streak
+<h2 align="center">📊 GitHub Stats &amp; Streak</h2>
 
 <p align="center">
   <a href="https://github.com/DEVTHAKUR-90">
@@ -155,9 +94,8 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
   </a>
 </p>
 -->
------
 
-### 📈 Most Used Languages
+<h2 align="center">📈 Most Used Languages</h2>
 
 <p align="center">
   <a href="https://github.com/DEVTHAKUR-90">

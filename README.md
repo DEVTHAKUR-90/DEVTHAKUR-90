@@ -7,7 +7,7 @@
 <br><br>
 
 <p>
-  <a href="https://github.com/DEVTHAKUR-90"><img src="assets/icons/github.svg" width="52" height="51" alt="GitHub" /></a><a href="https://www.linkedin.com/in/dev-thakur90"><img src="assets/icons/linkedin.svg" width="52" height="51" alt="LinkedIn" /></a><a href="https://www.instagram.com/i_amdevthakur"><img src="assets/icons/instagram.svg" width="52" height="51" alt="Instagram" /></a><a href="https://leetcode.com/u/DEVTHAKUR-90/"><img src="assets/icons/leetcode.svg" width="52" height="51" alt="LeetCode" /></a><a href="mailto:90dthakur@gmail.com"><img src="assets/icons/gmail.svg" width="52" height="51" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/dev-thakur90"><img src="assets/icons/linkedin.svg" width="52" height="51" alt="LinkedIn" /></a><a href="https://www.instagram.com/i_amdevthakur"><img src="assets/icons/instagram.svg" width="52" height="51" alt="Instagram" /></a><a href="https://leetcode.com/u/DEVTHAKUR-90/"><img src="assets/icons/leetcode.svg" width="52" height="51" alt="LeetCode" /></a><a href="mailto:90dthakur@gmail.com"><img src="assets/icons/gmail.svg" width="52" height="51" alt="Email" /></a>
 </p>
 
 <br>
@@ -26,9 +26,9 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
-### 🧑‍💻 Programming Languages
+<h3 align="center">🧑‍💻 Programming Languages</h3>
 
 <p align="center">
   <img src="assets/icons/python.svg" width="76" height="74" alt="Python" /><img src="assets/icons/java.svg" width="76" height="74" alt="Java" /><img src="assets/icons/c.svg" width="76" height="74" alt="C" /><img src="assets/icons/cpp.svg" width="76" height="74" alt="C++" /><img src="assets/icons/powershell.svg" width="76" height="74" alt="PowerShell" />
@@ -36,7 +36,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 
 ---
 
-### 🌐 Web Technologies
+<h3 align="center">🌐 Web Technologies</h3>
 
 <p align="center">
   <img src="assets/icons/javascript.svg" width="76" height="74" alt="JavaScript" /><img src="assets/icons/typescript.svg" width="76" height="74" alt="TypeScript" /><img src="assets/icons/html5.svg" width="76" height="74" alt="HTML5" /><img src="assets/icons/css3.svg" width="76" height="74" alt="CSS3" />
@@ -44,7 +44,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 
 ---
 
-### 🧩 Frameworks & Libraries
+<h3 align="center">🧩 Frameworks &amp; Libraries</h3>
 
 <p align="center">
   <img src="assets/icons/react.svg" width="76" height="74" alt="React" /><img src="assets/icons/vue.svg" width="76" height="74" alt="Vue.js" /><img src="assets/icons/nextjs.svg" width="76" height="74" alt="Next.js" /><img src="assets/icons/tailwind.svg" width="76" height="74" alt="Tailwind CSS" /><img src="assets/icons/nodejs.svg" width="76" height="74" alt="Node.js" /><img src="assets/icons/fastapi.svg" width="76" height="74" alt="FastAPI" />
@@ -52,7 +52,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 
 ---
 
-### 📊 Data & ML
+<h3 align="center">📊 Data &amp; ML</h3>
 
 <p align="center">
   <img src="assets/icons/pandas.svg" width="76" height="74" alt="Pandas" /><img src="assets/icons/numpy.svg" width="76" height="74" alt="NumPy" /><img src="assets/icons/scikit-learn.svg" width="76" height="74" alt="Scikit-learn" /><img src="assets/icons/power-bi.svg" width="76" height="74" alt="Power BI" />
@@ -60,7 +60,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 
 ---
 
-### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
   <img src="assets/icons/mysql.svg" width="76" height="74" alt="MySQL" /><img src="assets/icons/postgresql.svg" width="76" height="74" alt="PostgreSQL" /><img src="assets/icons/mongodb.svg" width="76" height="74" alt="MongoDB" />
@@ -68,7 +68,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 
 ---
 
-### 🔐 Cybersecurity Arsenal
+<h3 align="center">🔐 Cybersecurity Arsenal</h3>
 
 <p align="center">
   <img src="assets/icons/linux.svg" width="76" height="74" alt="Linux" /><img src="assets/icons/kali-linux.svg" width="76" height="74" alt="Kali Linux" /><img src="assets/icons/wireshark.svg" width="76" height="74" alt="Wireshark" /><img src="assets/icons/burp-suite.svg" width="76" height="74" alt="Burp Suite" /><img src="assets/icons/nmap.svg" width="76" height="74" alt="Nmap" /><img src="assets/icons/metasploit.svg" width="76" height="74" alt="Metasploit" /><img src="assets/icons/owasp.svg" width="76" height="74" alt="OWASP" />
@@ -76,7 +76,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 
 ---
 
-### 🧰 Development Tools
+<h3 align="center">🧰 Development Tools</h3>
 
 <p align="center">
   <img src="assets/icons/git.svg" width="76" height="74" alt="Git" /><img src="assets/icons/github.svg" width="76" height="74" alt="GitHub" /><img src="assets/icons/vscode.svg" width="76" height="74" alt="VS Code" /><img src="assets/icons/postman.svg" width="76" height="74" alt="Postman" /><img src="assets/icons/terminal.svg" width="76" height="74" alt="Terminal" />
@@ -84,7 +84,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 
 ---
 
-### 🖥️ Virtualization & Lab
+<h3 align="center">🖥️ Virtualization &amp; Lab</h3>
 
 <p align="center">
   <img src="assets/icons/virtualbox.svg" width="76" height="74" alt="VirtualBox" /><img src="assets/icons/vmware.svg" width="76" height="74" alt="VMware" />
@@ -113,8 +113,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 </p>
 -->
 
-
-### 📈 Most Used Languages
+<h3 align="center">📈 Most Used Languages</h3>
 
 <p align="center">
   <a href="https://github.com/DEVTHAKUR-90">
@@ -126,7 +125,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
   </a>
 </p>
 
------
+---
 
 <div align="center">
 
@@ -139,4 +138,4 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 
 </div>
 
------
+---

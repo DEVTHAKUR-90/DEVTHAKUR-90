@@ -113,14 +113,21 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 </p>
 -->
 
-<h3 align="center">📈 Most Used Languages</h3>
+<h3 align="center">📈 GitHub Analytics</h3>
 
 <p align="center">
   <a href="https://github.com/DEVTHAKUR-90">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVTHAKUR-90&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=ffffff&icon_color=7DCFFF&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVTHAKUR-90&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292f&icon_color=7C3AED&langs_count=8" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVTHAKUR-90&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292f&icon_color=7C3AED&langs_count=8" alt="Most Used Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/cards/stats-light.svg" />
+    <img src="assets/cards/stats-light.svg" width="49%" alt="GitHub Stats" />
+  </picture>
+  </a>
+  <a href="https://github.com/DEVTHAKUR-90?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/cards/langs-light.svg" />
+    <img src="assets/cards/langs-light.svg" width="49%" alt="Most Used Languages" />
   </picture>
   </a>
 </p>

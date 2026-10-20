@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# VERSION: v2 (no rank badge, GitHub logo ring)
 """Generate the "GitHub Stats" and "Most Used Languages" profile cards as SVGs.
 
 Live mode (used by the GitHub Action):

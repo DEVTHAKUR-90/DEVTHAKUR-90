@@ -114,7 +114,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 -->
 
 <h3 align="center">📈 GitHub Analytics</h3>
-
+<!--
 <p align="center">
   <a href="https://github.com/DEVTHAKUR-90">
   <picture>
@@ -123,6 +123,8 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
     <img src="assets/cards/stats-light.svg" width="49%" alt="GitHub Stats" />
   </picture>
   </a>
+  -->
+  <p align="center">
   <a href="https://github.com/DEVTHAKUR-90?tab=repositories">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/langs-dark.svg" />
@@ -130,6 +132,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
     <img src="assets/cards/langs-light.svg" width="49%" alt="Most Used Languages" />
   </picture>
   </a>
+</p>
 </p>
 
 ---

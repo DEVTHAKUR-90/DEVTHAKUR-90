@@ -123,23 +123,6 @@ query($login: String!, $after: String) {
 """
 
 
-def calc_rank(commits, prs, issues, reviews, stars, followers):
-    """Approximation of the github-readme-stats rank formula."""
-    exp_cdf = lambda x: 1 - 2 ** -x
-    log_cdf = lambda x: x / (1 + x)
-    parts = [(2, 250, commits, exp_cdf), (3, 50, prs, exp_cdf), (1, 25, issues, exp_cdf),
-             (1, 2, reviews, exp_cdf), (4, 50, stars, log_cdf), (1, 10, followers, log_cdf)]
-    total_w = sum(w for w, *_ in parts)
-    rank = 1 - sum(w * f(v / m) for w, m, v, f in parts) / total_w
-    percentile = rank * 100
-    levels = ["S", "A+", "A", "A-", "B+", "B", "B-", "C+", "C"]
-    limits = [1, 12.5, 25, 37.5, 50, 62.5, 75, 87.5, 100]
-    for lvl, lim in zip(levels, limits):
-        if percentile <= lim:
-            return lvl
-    return "C"
-
-
 def fetch_live():
     u = gql(STATS_QUERY, {"login": USERNAME})["user"]
     cc = u["contributionsCollection"]
@@ -179,7 +162,6 @@ def fetch_live():
         "stars": stars,
         "contributions": cc["contributionCalendar"]["totalContributions"],
         "prs": prs, "issues": issues, "contributed_to": len(touched), "reviews": reviews,
-        "rank": calc_rank(commits, prs, issues, reviews, stars, u["followers"]["totalCount"]),
         "langs": lang_list,
     }
 
@@ -187,7 +169,7 @@ def fetch_live():
 def demo_data():
     return {
         "stars": 552, "contributions": 3546, "prs": 473, "issues": 272,
-        "contributed_to": 74, "reviews": 195, "rank": "S",
+        "contributed_to": 74, "reviews": 195,
         "langs": [("Python", "#3572A5", 29.6), ("TypeScript", "#3178C6", 24.9),
                   ("Rust", "#DEA584", 19.2), ("C++", "#F34B7D", 7.9), ("C", "#555555", 7.9),
                   ("MATLAB", "#E16737", 4.7), ("JavaScript", "#F1E05A", 4.6),
@@ -214,10 +196,6 @@ def card_open(t, title, icon_name, aria):
     )
 
 
-def rank_colour(rank):
-    return {"S": "#FBBF24", "A": "#58A6FF", "B": "#A78BFA"}.get(rank[0], "#8B949E")
-
-
 def stats_svg(d, t):
     rows = [
         ("star", "#FBBF24", "Total Stars Earned", d["stars"]),
@@ -234,12 +212,10 @@ def stats_svg(d, t):
         out.append(f'<text x="{PAD+33}" y="{cy+5:.1f}" font-size="14" fill="{t["label"]}">{esc(label)}</text>')
         out.append(f'<text x="323" y="{cy+5:.1f}" font-size="14" font-weight="700" text-anchor="end" fill="{t["value"]}">{value:,}</text>')
 
-    rc = rank_colour(d["rank"])
-    cx, cy = 414, 119
+    rc = t["accent"]
+    cx, cy = 414, 156
     out.append(f'<circle cx="{cx}" cy="{cy}" r="46" fill="{rc}" fill-opacity="0.12" stroke="{rc}" stroke-width="4"/>')
     out.append(f'<g transform="translate({cx-22} {cy-22}) scale(2.75)" fill="{rc}"><path d="{GITHUB_MARK}"/></g>')
-    out.append(f'<rect x="{cx-48}" y="185" width="96" height="26" rx="8" fill="{t["pill"]}" stroke="{t["border"]}"/>')
-    out.append(f'<text x="{cx}" y="203" font-size="12" font-weight="700" letter-spacing="1.5" text-anchor="middle" fill="{t["muted"]}">RANK · {esc(d["rank"])}</text>')
     out.append("</svg>")
     return "".join(out)
 

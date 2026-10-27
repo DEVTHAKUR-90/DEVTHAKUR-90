@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# VERSION: v3 (adds Dynamic Island pills: portfolio, profile views, built-by)
+# VERSION: v4 (Dynamic Island pills: portfolio + built-by; live views pill moved to views-pill/)
 """Generate the profile cards and Dynamic Island pills as SVGs.
 
 Live mode (used by the GitHub Action):
@@ -11,13 +11,12 @@ Preview mode (no token, sample numbers only):
 Writes to assets/cards/ (each in a -dark and a -light version):
     stats-*.svg, langs-*.svg                  the two GitHub cards
     portfolio-*.svg, builtby-*.svg            Dynamic Island pills (static)
-    views-*.svg (+ views.json)                Dynamic Island pill with the profile view count
+The live "Profile Views" pill is drawn by views-pill/api/views.js (deployed on Vercel).
 Standard library only.
 """
 import html
 import json
 import os
-import re
 import sys
 import urllib.request
 from pathlib import Path
@@ -49,7 +48,6 @@ ICONS = {
     "issue": '<circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="1" fill="COLOR"/>',
     "fork": '<circle cx="12" cy="18" r="3"/><circle cx="6" cy="6" r="3"/><circle cx="18" cy="6" r="3"/><path d="M18 9v2c0 .6-.4 1-1 1H7c-.6 0-1-.4-1-1V9"/><path d="M12 12v3"/>',
     "review": '<circle cx="6" cy="6" r="3"/><circle cx="18" cy="18" r="3"/><path d="M13 6h3a2 2 0 0 1 2 2v7"/><path d="M6 9v12"/>',
-    "eye": '<path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/>',
     "heart": '<path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z" fill="COLOR"/>',
 }
 
@@ -291,36 +289,12 @@ def pill_open(w, t, aria):
     )
 
 
-def pill_bubble(cx, icon_name, t, fill="chip", icon_color="#FFFFFF"):
-    cy = PILL_H / 2
-    if fill == "accent":
-        circle = f'<circle cx="{cx}" cy="{cy:g}" r="17" fill="url(#acc)"/>'
-    else:
-        circle = f'<circle cx="{cx}" cy="{cy:g}" r="17" fill="#FFFFFF" fill-opacity="{t["chip_op"]}"/>'
-    return circle + icon(icon_name, cx - 9, cy - 9, 18, icon_color, 2)
-
-
 def portfolio_svg(t):
     # just the word "Portfolio" in a plain black capsule
     w = 176
     out = [pill_open(w, t, "Portfolio")]
     out.append(f'<text x="{w / 2:g}" y="32" font-size="17" font-weight="700" letter-spacing="0.4" '
                f'text-anchor="middle" fill="{t["text"]}">Portfolio</text>')
-    out.append("</svg>")
-    return "".join(out)
-
-
-def views_svg(count, t):
-    label_w = 118
-    num = f"{count:,}"
-    chip_w = len(num) * 10 + 28
-    chip_x = 54 + label_w + 8
-    w = chip_x + chip_w + 10
-    out = [pill_open(w, t, f"Profile views: {num}")]
-    out.append(pill_bubble(27, "eye", t, icon_color=ACCENT_B))
-    out.append(f'<text x="54" y="30" font-size="11" font-weight="600" letter-spacing="1.4" fill="{t["muted"]}">PROFILE VIEWS</text>')
-    out.append(f'<rect x="{chip_x}" y="10" width="{chip_w}" height="32" rx="16" fill="url(#acc)"/>')
-    out.append(f'<text x="{chip_x + chip_w / 2:g}" y="31" font-size="16" font-weight="700" text-anchor="middle" fill="#FFFFFF">{esc(num)}</text>')
     out.append("</svg>")
     return "".join(out)
 
@@ -341,49 +315,17 @@ def builtby_svg(t):
     return "".join(out)
 
 
-def fetch_views():
-    """Read the current profile view count from komarev.com (each read adds one view).
-
-    The number is saved to views.json so a failed request falls back to the last
-    known count instead of breaking the pill."""
-    store = OUT_DIR / "views.json"
-    saved = None
-    try:
-        saved = int(json.loads(store.read_text(encoding="utf-8"))["views"])
-    except Exception:
-        pass
-    try:
-        req = urllib.request.Request(
-            f"https://komarev.com/ghpvc/?username={USERNAME}&label=VIEWS",
-            headers={"User-Agent": "profile-cards"},
-        )
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            svg = resp.read().decode("utf-8", "replace")
-        m = re.search(r'aria-label="[^"]*?:\s*([0-9][0-9,]*)"', svg)
-        nums = [m.group(1)] if m else re.findall(r">\s*([0-9][0-9,]*)\s*<", svg)
-        views = int(nums[-1].replace(",", ""))
-        store.write_text(json.dumps({"views": views}), encoding="utf-8")
-        return views
-    except Exception as exc:
-        print(f"views: could not read the counter ({exc}); using last saved value ({saved})")
-        return saved
-
-
 def main():
     demo = "--demo" in sys.argv
     data = demo_data() if demo else fetch_live()
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    views = 1234 if demo else fetch_views()
     for theme_name, theme in THEMES.items():
         (OUT_DIR / f"stats-{theme_name}.svg").write_text(stats_svg(data, theme), encoding="utf-8")
         (OUT_DIR / f"langs-{theme_name}.svg").write_text(langs_svg(data, theme), encoding="utf-8")
     for theme_name, theme in PILL_THEMES.items():
         (OUT_DIR / f"portfolio-{theme_name}.svg").write_text(portfolio_svg(theme), encoding="utf-8")
         (OUT_DIR / f"builtby-{theme_name}.svg").write_text(builtby_svg(theme), encoding="utf-8")
-        if views is not None:
-            (OUT_DIR / f"views-{theme_name}.svg").write_text(views_svg(views, theme), encoding="utf-8")
-    n = 4 + 4 + (2 if views is not None else 0)
-    print(f"Wrote {n} files to {OUT_DIR}/ ({'demo' if demo else 'live'} data)")
+    print(f"Wrote 8 files to {OUT_DIR}/ ({'demo' if demo else 'live'} data)")
 
 
 if __name__ == "__main__":

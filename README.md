@@ -139,10 +139,13 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 
 <br>
 
-<!-- Live counter: drawn by views-pill/api/views.js on Vercel. Every time this page loads, it adds one view. -->
+<!-- Profile Views pill: drawn by views-pill/api/views.js on Vercel. It only READS the total; the view itself is counted by the hidden 1x1 image at the bottom. -->
 <a href="https://github.com/DEVTHAKUR-90"><picture><source media="(prefers-color-scheme: dark)" srcset="https://devthakur90.vercel.app/api/views?theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://devthakur90.vercel.app/api/views?theme=light" /><img src="https://devthakur90.vercel.app/api/views?theme=light" height="52" alt="Profile Views" /></picture></a>
 
 <a href="https://github.com/DEVTHAKUR-90"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/builtby-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/cards/builtby-light.svg" /><img src="assets/cards/builtby-light.svg" height="52" alt="Built with love by Dev Thakur" /></picture></a>
+
+<!-- Hidden view counter: komarev.com only counts requests that arrive through GitHub's image proxy, so this 1x1 image is what adds a view each time the profile is opened. Keep it. -->
+<img src="https://komarev.com/ghpvc/?username=DEVTHAKUR-90&label=VIEWS" width="1" height="1" alt="" />
 
 </div>
 

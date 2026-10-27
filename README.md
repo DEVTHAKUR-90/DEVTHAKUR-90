@@ -140,7 +140,7 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 <br>
 
 <!-- Live counter: drawn by views-pill/api/views.js on Vercel. Every time this page loads, it adds one view. -->
-<a href="https://github.com/DEVTHAKUR-90"><picture><source media="(prefers-color-scheme: dark)" srcset="https://dev-profile-views.vercel.app/api/views?theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://dev-profile-views.vercel.app/api/views?theme=light" /><img src="https://dev-profile-views.vercel.app/api/views?theme=light" height="52" alt="Profile Views" /></picture></a>
+<a href="https://github.com/DEVTHAKUR-90"><picture><source media="(prefers-color-scheme: dark)" srcset="https://devthakur90.vercel.app/api/views?theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://devthakur90.vercel.app/api/views?theme=light" /><img src="https://devthakur90.vercel.app/api/views?theme=light" height="52" alt="Profile Views" /></picture></a>
 
 <a href="https://github.com/DEVTHAKUR-90"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/builtby-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/cards/builtby-light.svg" /><img src="assets/cards/builtby-light.svg" height="52" alt="Built with love by Dev Thakur" /></picture></a>
 

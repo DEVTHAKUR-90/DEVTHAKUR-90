@@ -13,7 +13,11 @@
 <br>
 
 <a href="https://dev-onweb.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/portfolio-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/cards/portfolio-light.svg" />
+    <img src="assets/cards/portfolio-light.svg" height="52" alt="Portfolio" />
+  </picture>
 </a>
 
 </div>
@@ -141,10 +145,22 @@ Cybersecurity and Data Analytics specialist engineering secure, intelligent syst
 
 <br>
 
-<picture><img src="https://komarev.com/ghpvc/?username=DEVTHAKUR-90&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" /></picture>
+<a href="https://github.com/DEVTHAKUR-90">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/views-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/cards/views-light.svg" />
+    <img src="assets/cards/views-light.svg" height="52" alt="Profile Views" />
+  </picture>
+</a>&nbsp;&nbsp;<a href="https://github.com/DEVTHAKUR-90">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/builtby-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/cards/builtby-light.svg" />
+    <img src="assets/cards/builtby-light.svg" height="52" alt="Built with love by Dev Thakur" />
+  </picture>
+</a>
 
-<br><br>
-<picture><img src="https://img.shields.io/badge/Built_with-❤️_by_Dev_Thakur-7C3AED?style=for-the-badge" alt="Built by Dev Thakur" /></picture>
+<!-- Invisible counter: each page view hits komarev, and the Action reads that count into the views pill. -->
+<img src="https://komarev.com/ghpvc/?username=DEVTHAKUR-90&label=PROFILE+VIEWS" width="1" height="1" alt="" />
 
 </div>
 
